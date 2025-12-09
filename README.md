@@ -150,12 +150,13 @@ smart-farm-sprinkler-predictor/
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-> Replace these paths with your actual image paths in the repo.
+
 
 ```markdown
-![Smart Farm Sprinkler Predictor UI](images/ui_dashboard.png)
+![Smart Farm Sprinkler Predictor UI](<img width="873" height="417" alt="image" src="https://github.com/user-attachments/assets/4ad4d812-966e-477c-b1e7-1a53438bbf9b" />
+ng)
 
 ![Sprinkler Activity Patterns](images/sprinkler_patterns.png)
 
@@ -164,7 +165,7 @@ smart-farm-sprinkler-predictor/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -211,7 +212,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## ✅ Results & Insights
+## Results & Insights
 
 * The Random Forest–based multi-output model achieves strong performance across all three parcels (high precision, recall, and F1-score).
 * Visual analysis of sprinkler and pump activity confirms that:
@@ -222,7 +223,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 1. **IoT Integration**
 
@@ -251,17 +252,4 @@ streamlit run streamlit_app.py
 
 ---
 
-## 🙋‍♀️ Author
 
-**Devadharshani B**
-2nd Year B.Tech Information Technology
-AI/ML & IoT Enthusiast
-
-Feel free to open an issue or submit a pull request if you’d like to contribute or suggest improvements!
-
-```
-
----
-
-You can tweak the project structure section and image paths to match your actual repository layout, then save this as `README.md` in your GitHub project.
-```
